@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Configuration property" Url="html/1a6cb702-1cfa-ab71-937c-8121cd1d82fe.htm" />
+  <HelpKINode Title="Configure method" Url="html/bd8ba54d-26c4-3b07-00dc-45236709d850.htm" />
+  <HelpKINode Title="ConfigureServices method" Url="html/a3eab197-444d-18c9-0b7b-cbc63a3e8f63.htm" />
+  <HelpKINode Title="CreateHostBuilder method" Url="html/dddeed71-c4de-fa95-bb96-db8b3807fc3e.htm" />
+  <HelpKINode Title="Main method" Url="html/db2c185c-0125-d604-b0b1-7d3a1a68d31d.htm" />
+  <HelpKINode Title="OcelotDemo namespace" Url="html/7eb3a538-bfdb-a3a8-2466-ce5e2d5c93c7.htm" />
+  <HelpKINode Title="OcelotDemo.Program class" Url="html/90f7e912-a118-8f8a-e840-d3cf0e83abbd.htm" />
+  <HelpKINode Title="OcelotDemo.Startup class" Url="html/f5166576-3133-10da-6aba-49c50c182ea8.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/90f7e912-a118-8f8a-e840-d3cf0e83abbd.htm" />
+    <HelpKINode Title="constructor" Url="html/3de6ef78-3355-a29d-2760-71719fc5a49f.htm" />
+    <HelpKINode Title="methods" Url="html/5f37d2c0-de95-41ce-25cf-28ed146543fd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.CreateHostBuilder method" Url="html/dddeed71-c4de-fa95-bb96-db8b3807fc3e.htm" />
+  <HelpKINode Title="Program.Main method" Url="html/db2c185c-0125-d604-b0b1-7d3a1a68d31d.htm" />
+  <HelpKINode Title="Program.Program constructor" Url="html/3de6ef78-3355-a29d-2760-71719fc5a49f.htm" />
+  <HelpKINode Title="Startup class">
+    <HelpKINode Title="Startup Class" Url="html/f5166576-3133-10da-6aba-49c50c182ea8.htm" />
+    <HelpKINode Title="constructor" Url="html/8b1d0b8a-e32f-304d-616d-ebed425cf658.htm" />
+    <HelpKINode Title="methods" Url="html/24e39f56-fca7-21c2-1e15-3761de535e3b.htm" />
+    <HelpKINode Title="properties" Url="html/e7eeaeb1-6ce2-4394-f75b-27e206bcf435.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Startup.Configuration property" Url="html/1a6cb702-1cfa-ab71-937c-8121cd1d82fe.htm" />
+  <HelpKINode Title="Startup.Configure method" Url="html/bd8ba54d-26c4-3b07-00dc-45236709d850.htm" />
+  <HelpKINode Title="Startup.ConfigureServices method" Url="html/a3eab197-444d-18c9-0b7b-cbc63a3e8f63.htm" />
+  <HelpKINode Title="Startup.Startup constructor" Url="html/8b1d0b8a-e32f-304d-616d-ebed425cf658.htm" />
+</HelpKI>
